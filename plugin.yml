@@ -1,7 +1,7 @@
 name: mirm_core
 main: mirm_core\mirm_core
 version: 1u1
-api: [2.0.0]
+api: [3.12.0]
 load: POSTWORLD
 author: haniokasai
 description: MiRm Core Plugin
